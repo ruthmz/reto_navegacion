@@ -1,4 +1,5 @@
-# Reto 2 Navegación
+# Reto 2
+Navegación
 
 ## Objetivo
 
@@ -32,4 +33,13 @@ Identificar los elementos de navegación en los siguientes sites.
 ![Github](assets/img/GITHUB-05.png)
 ![Github](assets/img/GITHUB-06.png)
 
+ ## Medium
+![Medium](assets/img/MEDIUM-01.png)
+![Medium](assets/img/MEDIUM-02.png)
+![Medium](assets/img/MEDIUM-03.png)
+![Medium](assets/img/MEDIUM-04.png)
+![Medium](assets/img/MEDIUM-05.png)
 
+
+
+ 
